@@ -68,7 +68,7 @@
     "typescript": "^3.4.3",
     "uglify-js": "^3.1.4",
     "underscore": "^1.5.1",
-    "webpack": "^1.12.6",
+    "webpack": "^5.104.1",
     "webpack-dev-server": "^1.12.1"
   },
   "main": "lib/index.js",
