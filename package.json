@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@definitelytyped/dtslint": "^0.0.100",
-    "@playwright/test": "^1.36.1",
+    "@playwright/test": "^1.57.0",
     "aws-sdk": "^2.1.49",
     "babel-loader": "^5.0.0",
     "babel-runtime": "^5.1.10",
