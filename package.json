@@ -29,7 +29,7 @@
     "uglify-js": "^3.1.4"
   },
   "devDependencies": {
-    "@definitelytyped/dtslint": "^0.0.100",
+    "@definitelytyped/dtslint": "^0.1.0",
     "@playwright/test": "^1.57.0",
     "aws-sdk": "^2.1.49",
     "babel-loader": "^5.0.0",
@@ -39,7 +39,7 @@
     "chai-diff": "^1.0.1",
     "concurrently": "^5.0.0",
     "dirty-chai": "^2.0.1",
-    "dustjs-linkedin": "^2.0.2",
+    "dustjs-linkedin": "^3.0.1",
     "eslint": "^8.25.0",
     "eslint-config-prettier": "^8.9.0",
     "eslint-plugin-compat": "4.0",
@@ -64,7 +64,7 @@
     "nyc": "^14.1.1",
     "prettier": "^3.0.0",
     "semver": "^5.0.1",
-    "sinon": "^7.5.0",
+    "sinon": "^21.0.1",
     "typescript": "^5.9.3",
     "uglify-js": "^3.1.4",
     "underscore": "^1.5.1",
