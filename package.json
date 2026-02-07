@@ -29,7 +29,7 @@
     "uglify-js": "^3.1.4"
   },
   "devDependencies": {
-    "@definitelytyped/dtslint": "^0.2.35",
+    "@definitelytyped/dtslint": "^0.2.36",
     "@playwright/test": "^1.57.0",
     "aws-sdk": "^2.1.49",
     "babel-loader": "^5.0.0",
